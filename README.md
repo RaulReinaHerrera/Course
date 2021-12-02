@@ -1,2 +1,2 @@
 # Course
-A university course
+A course for my second degree year
